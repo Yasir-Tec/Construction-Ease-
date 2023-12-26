@@ -21,4 +21,4 @@
 •	User can choice a contractor for constructing home by comparing different profiles of contractors. By comparing works done by contractors, the speed of work, the cost of construction per square feet, different plans of construction from basics to premium user can chose a contractor.<br>
 •	User can choose a construction plan by negotiating amounts of products and can purchase and can make payment online.<br>
 •	User can give feedback to the 24X7 Care Service.<br>
-•	Visitor can visit the site without registration.<br>
+•	Visitor can visit the site without registration.<br><br>
