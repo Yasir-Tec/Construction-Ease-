@@ -1,0 +1,9 @@
+package constuction.project.data.services;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import constuction.project.data.beans.Products;
+
+public interface ProductRepository extends JpaRepository<Products, Long> {
+
+}
