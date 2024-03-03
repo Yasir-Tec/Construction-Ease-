@@ -1,0 +1,9 @@
+package construction.project.data.service1;
+
+import construction.project.data.dto.ResisterDto;
+
+public interface constructionService {
+
+	Object resister(ResisterDto resisterdto);
+
+}

@@ -1,0 +1,5 @@
+package construction.project.data.service;
+
+public class ContractorService {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;constuction.project.data.beans.contractor&apos; to &apos;Contractor&apos;&#x0D;&#x0A;- Original project: &apos;ConstructionEase-1&apos;&#x0D;&#x0A;- Original element: &apos;constuction.project.data.beans.contractor&apos;&#x0D;&#x0A;- Renamed element: &apos;constuction.project.data.beans.Contractor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;contractor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;constuction.project.data.beans{contractor.java[contractor" matchStrategy="1" name="Contractor" qualified="false" references="true" similarDeclarations="false" stamp="1708423519783" textual="false" version="1.0"/>
+</session>
